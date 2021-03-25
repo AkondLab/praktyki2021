@@ -1,4 +1,4 @@
-# IT Intern in  _///AkondLab._
+# IT Intern in  _AkondLab_
 
 ## Who we are?
 
@@ -44,7 +44,7 @@ You will
 ## How to apply?
 Send your application to email recruitment@akond.com 
 
-# Praktyki Studenckie IT w  _///AkondLab._
+# Praktyki Studenckie IT w _AkondLab_
 
 ## Kim jesteśmy?
 
