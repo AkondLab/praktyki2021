@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+# IT Intern in  _///AkondLab._
 
-You can use the [editor on GitHub](https://github.com/AkondLab/praktyki2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Who we are?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+AkondLab is a Wrocław IT company. We focus on research and software development for various industries as well as for scientific and academic institutions.
+Currently we mainly work for financial institutions providing key software components for banking systems and develop technical and scientific software for astronomical observatories.
 
-### Markdown
+## Who we are not?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We know them, we work with them, but we are not a corpo. 
 
-```markdown
-Syntax highlighted code block
+## Who are we loking for?
 
-# Header 1
-## Header 2
-### Header 3
+BCh / MSc / PhD students from IT, physics, mathematics, astronomy or technical faculties who are learning to program and who recognize IT as the main tool of their future work.
+We expect
+* at least moderate (yet) programming skills,
+* enthusiastic approach to learning new things and working on real projects,
+* determination in problem solving and achieving goals.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+We would be happy if you
+* know the English language,
+* have an experience with some of the technologies we use (`Java, Python, C++, JavaScript/HTML, J2EE,  XML, Bootstrap, SQL databases, SOAP, REST, React, Kafka,` ...),
+* can show us something you have created and are proud of (website, application, Arduino project, poem, ...).
 
-**Bold** and _Italic_ and `Code` text
+## What will you do?
 
-[Link](url) and ![Image](src)
-```
+You will 
+* become a member of a real project,
+* learn and work with your team,
+* program parts of applications and tests, 
+* configure, run and test software components, 
+* use `JIRA`, `git` and other tools to collaborate with the team,
+* have fun.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## What do we offer?
+* salary,
+* concentration on your strengths and assignment to projects and tasks that best suit you,
+* flexible internship period,
+* flexible working days and hours,
+* the possibility of employment after the intern on student-friendly conditions,
+* hybrid work model - partly in the office, partly remotely, depending on the COVID-19 situation.
 
-### Jekyll Themes
+## How to apply?
+Send your application to email recruitment@akond.com 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AkondLab/praktyki2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Praktyki Studenckie IT w  _///AkondLab._
 
-### Support or Contact
+## Kim jesteśmy?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+AkondLab to Wrocławska firma informatyczna. Prowadzimy działalność RnD i dostarczamy software dla różnych branż i instytucji naukowych.
+Aktualnie pracujemy głównie dla sektora finansowego dostarczając kluczowe komponenty systemów bankowych oraz tworzymy techniczne i naukowe oprogramowanie dla obserwatoriów astronomicznych.
+
+## Kim nie jesteśmy?
+
+Znamy korporacje, pracujemy z nimi, ale nie jesteśmy jedną z nich. 
+
+## Kogo szukamy?
+
+Studentów studiów licencjackich, magisterskich i doktoranckich z kierunków IT, fizyki, matematyki, astronomii i technicznych, uczących się programowania i przekonanych że informatyka będzie ich głównym narzędziem w przyszłej pracy.
+
+Oczekujemy
+* przynajmniej średniej (na razie) umiejętności programowania,
+* entuzjastycznego podejścia do nauki nowych rzeczy i pracy przy prawdziwych projektach,
+* determinacji w rozwiązywaniu problemów i osiąganiu celów.
+
+Będziemy szczęśliwi jeżeli
+* znasz angielski,
+* masz doświadczenie w niektórych technologiach używanych przez nas (`Java, Python, C++, JavaScript/HTML, J2EE,  XML, Bootstrap, SQL databases, SOAP, REST, React, Kafka,` ...),
+* mógłbyś nam pokazać coś co sam stworzyłeś i możesz się tym pochwalić (website, aplikacja, projekt Arduino, poemat, ...).
+
+## Czym się będziesz zajmował?
+
+Będziesz 
+* uczestnikiem prawdziwego projektu,
+* uczył się i pracował ze swoim zespołem,
+* programował części aplikacji i testy, 
+* konfigurował, uruchamiał i testował komponenty aplikacji, 
+* używał `JIRA`, `git` i innych narzędzi do współpracy w zespole,
+- dobrze się bawił.
+
+## Co oferujemy?
+* wynagrodzenie,
+* skupienie się na Twoich silnych stronach i przydział do projektów i zadań najbardziej do Ciebie pasujących.
+* elastyczny okres i długość praktyk,
+* elastyczne dni i godziny pracy,
+* możliwość zatrudnienia po okresie praktyki na warunkach przyjaznych studiowaniu,
+* hybrydowy model pracy - częściowo w biurze, częściowo zdalnie, w zależności od sytuacji z COVID-19.
+
+## Jak aplikować?
+Wyślij swoją aplikację na adres recruitment@akond.com.
